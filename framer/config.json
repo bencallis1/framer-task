@@ -1,0 +1,17 @@
+{
+  "propertyPanelToggleStates" : {
+    "Filters" : false
+  },
+  "deviceOrientation" : 0,
+  "sharedPrototype" : 0,
+  "contentScale" : 1.728432108027007,
+  "deviceType" : "apple-macbook",
+  "selectedHand" : "",
+  "updateDelay" : 0.3,
+  "deviceScale" : 0.5,
+  "foldedCodeRanges" : [
+    "{0, 185}"
+  ],
+  "orientation" : 0,
+  "fullScreen" : false
+}
