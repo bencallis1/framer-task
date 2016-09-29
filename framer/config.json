@@ -10,7 +10,9 @@
   "updateDelay" : 0.3,
   "deviceScale" : 0.5,
   "foldedCodeRanges" : [
-    "{0, 185}"
+    "{0, 408}",
+    "{1097, 237}",
+    "{1335, 126}"
   ],
   "orientation" : 0,
   "fullScreen" : false
